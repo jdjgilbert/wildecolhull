@@ -3,7 +3,6 @@ authors:
 - admin
 - Yannis
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
 image:
   caption: Shield bug guarding eggs in the Ecuadorian rainforest. Credit:Andreas Kay/Flickr (CC-BY-NC-SA 2.0)
   focal_point: Smart

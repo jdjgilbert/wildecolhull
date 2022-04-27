@@ -5,11 +5,7 @@ image:
   caption: Red mason bee hatching from cocoon. Hazet/Wikimedia Commons, CC BY-SA 
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
+
 summary: Investigating how parents and offspring work together to ensure offspring get a balanced diet in changing environments.
 tags:
 - Nutritional ecology

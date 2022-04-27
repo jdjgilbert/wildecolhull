@@ -5,21 +5,13 @@ image:
   caption: Dunatothrips armatus family
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
 summary: Natural history and behaviour of facultatively social Acacia thrips
 tags:
 - Parental care
 - Social behaviour
 - Nutritional ecology
 title: Social ecology of cooperation.
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=piwzZfqd504"
 
 weight: 30
 ---
