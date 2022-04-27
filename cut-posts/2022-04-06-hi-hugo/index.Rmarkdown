@@ -1,0 +1,24 @@
+---
+title: Hi Hugo
+author: 'James'
+date: '2022-04-06'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: 'Blah'
+summary: 'This is a post'
+authors: [James]
+lastmod: '2022-04-06T22:52:53+01:00'
+featured: no
+image:
+  caption: 'An image'
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+mtcars
+
+```
+
