@@ -1,6 +1,7 @@
 ---
 # Display name
 Title: Yannis Dimopoulos
+weight: 30
 
 # Primary user of site?
 superuser: false

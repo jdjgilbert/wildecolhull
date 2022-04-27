@@ -1,6 +1,7 @@
 ---
 # Display name
 Title: Alex Austin
+weight: 10
 
 # Primary user of site?
 superuser: false

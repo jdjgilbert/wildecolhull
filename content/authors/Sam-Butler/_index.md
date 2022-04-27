@@ -1,6 +1,7 @@
 ---
 # Display name
 Title: Sam Butler
+weight: 40
 
 # Primary user of site?
 superuser: false
