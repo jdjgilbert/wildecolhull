@@ -1,6 +1,6 @@
 ---
 date: "2016-04-27"
-external_link: ""
+external_link: "https://wildecolhull.netlify.app/content/project/acacia_thrips/index.md"
 image:
   caption: Dunatothrips armatus family
   focal_point: Smart
