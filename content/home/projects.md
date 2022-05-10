@@ -11,6 +11,7 @@ weight: 40
 
 title: Projects
 subtitle: ''
+layout: docs
 
 content:
   # Page type to display. E.g. project.
