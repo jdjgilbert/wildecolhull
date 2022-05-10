@@ -10,7 +10,7 @@ tags:
 - Parental care
 - Social behaviour
 - Nutritional ecology
-title: Social ecology of cooperation.
+title: Social ecology of cooperation
 url_video: "https://www.youtube.com/watch?v=piwzZfqd504"
 
 weight: 30
