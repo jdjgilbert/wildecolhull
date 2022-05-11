@@ -1,14 +1,14 @@
 ---
 date: "2016-04-27"
-external_link: "https://wildecolhull.netlify.app/content/project/acacia-thrips/index.md"
+external_link: "https://wildecolhull.netlify.app/project/acacia-thrips/index.md"
 image:
   caption: Dunatothrips armatus family
   focal_point: Smart
 summary: Natural history and behaviour of facultatively cooperative Acacia thrips in the outback
 tags:
-- Parental care
-- Social behaviour
-- Nutritional ecology
+- parental-care
+- social-behaviour
+- nutritional-ecology
 title: Social ecology of cooperation
 url_video: "https://www.youtube.com/watch?v=piwzZfqd504"
 
