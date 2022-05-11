@@ -6,7 +6,7 @@ Title: Fiona Tainsh
 superuser: false
 
 # Role in the group
-Role: MSc Researcher
+Role: MSc Researcher (Alumna)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Fiona's MSc focused on thermal ecology of overwintering in red mason bees.

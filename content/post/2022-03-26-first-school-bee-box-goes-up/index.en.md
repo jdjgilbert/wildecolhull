@@ -20,4 +20,4 @@ projects: [mason bees]
 ---
 
 We put up the first of our school mason bee boxes at 
-Wilberforce College with Ashley Howe ([@MrHoweBiology](http://twitter.com/@MrHoweBiology)), Martin the head technician and [Sam](/author/sam-butler). Looking forward to a buzzing spring of pollen collection with the sixth form students!
+Wilberforce College with Ashley Howe ([@MrHoweBiology](http://twitter.com/@MrHoweBiology)), Martin the head technician and [Sam](http://wildecolhull.netlify.app/authors/sam-butler/). Looking forward to a buzzing spring of pollen collection with the sixth form students!

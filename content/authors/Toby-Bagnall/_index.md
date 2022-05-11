@@ -6,7 +6,7 @@ Title: Toby Bagnall
 superuser: false
 
 # Role in the group
-Role: MSc Researcher
+Role: MSc Researcher (Alumnus)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Toby's MSc focused on the multidimensional effects of nutrition upon feeding decisions at different rearing temperatures in Osmoa bicornis.

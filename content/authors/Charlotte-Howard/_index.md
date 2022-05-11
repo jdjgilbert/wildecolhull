@@ -6,7 +6,7 @@ Title: Charlotte Howard
 superuser: false
 
 # Role in the group
-Role: MSc Researcher
+Role: MSc Researcher (Alumna)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Charlotte's MSc focused on nutritional ecology of red mason bees.
