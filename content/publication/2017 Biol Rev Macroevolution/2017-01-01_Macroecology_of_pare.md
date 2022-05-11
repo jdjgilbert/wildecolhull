@@ -9,7 +9,7 @@ abstract = "The intensity of biotic interactions varies around the world, in suc
 abstract_short = ""
 image_preview = ""
 selected = false
-projects = ['parental care']
+projects = ['parental-care']
 tags = []
 url_pdf = "https://doi.org/10.1111/brv.12303"
 url_preprint = ""
@@ -20,6 +20,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
+links = [{name="The Conversation",url="https://theconversation.com/why-protective-parenting-is-key-for-the-survival-of-tropical-insects-66347"}]
 math = true
 highlight = true
 [header]
