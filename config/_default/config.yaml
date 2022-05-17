@@ -70,3 +70,9 @@ related:
       weight: 70
 security:
   _merge: deep
+  
+## Added by James
+params:
+  description: Wild Ecology & Behaviour Group, University of Hull, UK
+  images:
+  - site-feature-image.jpg
