@@ -73,6 +73,7 @@ security:
   
 ## Added by James
 params:
+  twitter_cards: true
   description: Wild Ecology & Behaviour Group, University of Hull, UK
   images:
-  - static/site-feature-image.jpg
+  - https://wildecolhull.netlify.app/static/site-feature-image.jpg
