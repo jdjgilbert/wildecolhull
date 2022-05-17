@@ -70,10 +70,5 @@ related:
       weight: 70
 security:
   _merge: deep
-  
-## Added by James
 params:
   twitter_cards: true
-  description: Wild Ecology & Behaviour Group, University of Hull, UK
-  images:
-  - https://wildecolhull.netlify.app/static/site-feature-image.jpg
