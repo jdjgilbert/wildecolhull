@@ -75,4 +75,4 @@ security:
 params:
   description: Wild Ecology & Behaviour Group, University of Hull, UK
   images:
-  - site-feature-image.jpg
+  - static/site-feature-image.jpg
