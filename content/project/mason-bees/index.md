@@ -1,5 +1,6 @@
 ---
 date: '2022-05-06'
+showthedate: false
 #external_link: "https://wildecolhull.netlify.app/project/mason-bees/"
 image:
   caption: Red mason bee hatching from cocoon. Hazet/Wikimedia Commons, CC BY-SA 
