@@ -50,4 +50,4 @@ user_groups:
 
 ---
 
-Charlotte's MSc focused on the multidimeneional effects of nutrition across the time course of development upon hatching and cocoon weight in solitary bee larvae. Charlotte is now a NERC-funded PhD researcher at [Reading University](https://research.reading.ac.uk/foodbiosystems/meet-our-researchers/meet-our-phd-students-rdg/).
+Charlotte's MSc focused on the multidimensional effects of nutrition across the time course of development upon hatching and cocoon weight in solitary bee larvae. Charlotte is now a NERC-funded PhD researcher at [Reading University](https://research.reading.ac.uk/foodbiosystems/meet-our-researchers/meet-our-phd-students-rdg/).

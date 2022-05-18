@@ -51,7 +51,7 @@ user_groups:
 
 ---
 
-Jamie has diverse interests in the field, including agroecology and ecotoxicology. Particularly, he is  interested in understanding how ecological systems react to environmental stressors and global change. I hold a first-class honours degree in Biochemistry, which aids my research into the relationships of organisms and their environment. I have gained industry experience in agricultural sampling as well as environmental contamination monitoring. Furthermore, I have direct Ecotox experience conducting laboratory testing and outdoor mesocosm experiments. 
+Jamie has diverse interests in the field, including agroecology and ecotoxicology. Particularly, he is  interested in understanding how ecological systems react to environmental stressors and global change. He holds a first-class honours degree in Biochemistry, which aids his research into the relationships of organisms and their environment. He has gained industry experience in agricultural sampling as well as environmental contamination monitoring. Furthermore, he has direct Ecotox experience conducting laboratory testing and outdoor mesocosm experiments. 
 
 Jamie's NERC-funded DTP PhD is entitled "Nutrigenomics and the resilience of bees in changing climates."
 

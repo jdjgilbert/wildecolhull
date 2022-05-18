@@ -51,4 +51,4 @@ user_groups:
 
 ---
 
-Yannis finished his PhD in 2022, funded by a studentship from the University of Hull’s Parental Care Research Cluster. Yannis' PhD used data from BugBase – a large database of insect life history traits compiled from literature and from primary observations.  Yannis is looking at how life history influences, and is influenced by, the evolutionary decision to perform parental care of different forms; particularly how parental care is associated with economically important traits such as egg clustering and nesting behaviour.
+Yannis finished his PhD in 2022, funded by a studentship from the University of Hull’s Parental Care Research Cluster. Yannis' PhD used data from BugBase – a large database of insect life history traits compiled from literature and from primary observations.  Yannis looked at how life history influences, and is influenced by, the evolutionary decision to perform parental care of different forms; particularly how parental care is associated with economically important traits such as egg clustering and nesting behaviour.

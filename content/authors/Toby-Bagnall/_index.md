@@ -9,7 +9,7 @@ superuser: false
 Role: MSc Researcher (Alumnus)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Toby's MSc focused on the multidimensional effects of nutrition upon feeding decisions at different rearing temperatures in Osmoa bicornis.
+bio: Toby's MSc focused on the multidimensional effects of nutrition upon feeding decisions at different rearing temperatures in Osmia bicornis.
 
 # Interests to show in About widget
 interests:
@@ -42,4 +42,4 @@ user_groups:
   
 ---
 
-Toby's MSc focused on the effects of nutrition upon feeding decisions at different rearing temperatures in Osmoa bicornis.
+Toby's MSc focused on the effects of nutrition upon feeding decisions at different rearing temperatures in _Osmia bicornis_.
