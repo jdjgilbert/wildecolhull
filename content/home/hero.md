@@ -35,4 +35,4 @@ Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over pr
 <p>
 <div class='my_text'>
 <em>Latest news:</em>
-Welcome to the lab to <a href='/author/jamie-smith/'>Jamie Smith</a> (<a href='https://twitter.com/Jamiesmithbio'>@Jamiesmithbio</a>), who starts a PhD in September on Nutrigenomics and bee resilience in changing climates! See <a href='#posts'>Latest news</a> for details.</div>
+Congratulations to Yannis on being awarded his PhD! See <a href='#posts'>Latest news</a> for details.</div>
