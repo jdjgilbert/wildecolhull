@@ -40,10 +40,10 @@ social:
   link: '/#contact'
 
 user_groups:
-- Researchers
+- Alumni
 
 
 
 ---
 
-Caitlin's MSc focuses on evolutionary patterns in offspring provisioning across insects.
+Caitlin's MSc focused on evolutionary patterns in offspring provisioning across insects.
