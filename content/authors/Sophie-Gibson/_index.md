@@ -1,6 +1,7 @@
 ---
 # Display name
-Title: Caitlin Flynn
+Title: Sophie Gibson
+weight: 40
 
 # Primary user of site?
 superuser: false
@@ -9,13 +10,13 @@ superuser: false
 Role: MSc Researcher
 
 # Short bio (displayed in user profile at end of posts)
-bio: Caitlin's MSc focused on evolution of parental care and life histories in insects.
+bio: Sophie's MSc focuses on how hands-on experience with red mason bees may affect the science identity of school pupils in the Hull and East Yorkshire region.
 
 # Interests to show in About widget
 interests:
-- Macroevolution and behaviour
-- Comparative biology
-- Bioinformatics
+- Biology in education
+- Bee ecology and conservation
+- Pollinator management
 
 
 # Organizations/Affiliations to show in About widget
@@ -28,7 +29,7 @@ education:
   courses:
   - course: BSc in Zoology
     institution: University of Hull
-    year: 2019
+    year: 2022
  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,12 +39,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sophiegibbee
 
 user_groups:
-- Alumni
+- Researchers
 
 
 
 ---
 
-Caitlin's MSc focused on evolutionary patterns in offspring provisioning across insects.
+Sophie will be delivering bee ecology workshops over the coming year to find out whether hands-on experience affects student science identity.  Thanks to Ferens Educational Trust for funding.
