@@ -1,13 +1,13 @@
 ---
 title: 'BBSRC grant awarded!'
-author: 'James-Gilbert'
+author: 'James Gilbert'
 date: '2023-05-24'
 slug: 'we-got-a-bbsrc-grant'
-categories: ['bling']
-tags: ['mason bees']
+categories: []
+tags: []
 subtitle: ''
 summary: ''
-authors: ['admin']
+authors: ["admin"]
 lastmod: '2023-05-24T21:58:50+01:00'
 featured: no
 image:
