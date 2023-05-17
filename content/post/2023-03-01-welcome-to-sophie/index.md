@@ -9,10 +9,10 @@ subtitle: ''
 summary: ''
 authors: ["admin"]
 lastmod: '2023-03-01T19:25:42+01:00'
-featured: yes
+featured: no
 image: 
   caption: ''
-  preview_only: yes
+  preview_only: no
 projects: [mason bees]
 ---
 
