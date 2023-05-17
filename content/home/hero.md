@@ -34,6 +34,6 @@ Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over pr
 </div>
 <p>
 <div class='my_text'>
-* Delighted to announce we have been awarded a BBSRC grant to study resilience of bees in changing climates!
-* We welcome Sophie Gibson to the lab, who has just started her MSc funded by the Ferens Educational Trust. 
-* See <a href='#posts'>Latest news</a> for details.</div>
+<li> Delighted to announce we have been awarded a BBSRC grant to study resilience of bees in changing climates!
+<li> We welcome Sophie Gibson to the lab, who has just started her MSc funded by the Ferens Educational Trust. 
+<li> See <a href='#posts'>Latest news</a> for details.</div>
