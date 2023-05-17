@@ -7,7 +7,7 @@ weight: 30
 superuser: false
 
 # Role in the group
-Role: Phd Researcher
+Role: Phd Researcher (Alumnus)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Yannis' PhD focused on evolution of parental care and life histories in insects.
@@ -45,7 +45,7 @@ social:
  
  
 user_groups:
-- Researchers
+- Alumni
 
 
 
