@@ -35,4 +35,4 @@ Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over pr
 <p>
 <div class='my_text'>
 <em>Latest news:</em>
-Congratulations to Yannis on being awarded his PhD! See <a href='#posts'>Latest news</a> for details.</div>
+We have been awarded a BBSRC grant! See <a href='#posts'>Latest news</a> for details.</div>
