@@ -49,5 +49,4 @@ user_groups:
 
 
 ---
-
-Sophie will be delivering bee ecology workshops over the coming year to find out whether hands-on experience affects student science identity.  Thanks to Ferens Educational Trust for funding.
+Sophie will be delivering bee ecology workshops over the coming year to find out whether hands-on experience affects student science identity. The opportunity for school-age children to gain hands-on experience in scientific research can be an important part of developing science identity, and hence motivation to follow STEM careers. Bees are vital to our natural world, but suffer the consequences of many public misconceptions.  Sophie will deliver a set of workshops in multiple schools, with or without a hands-on research activity involving a live mason bee nest box. The expectation is that involvement in active research will raise interests of Year 12 students in joining science based careers, especially that within the field of biology.  The project aims ultimately to (1) help identify factors affecting science identity and (2) expand the knowledge of bee ecology of Year 12 students in schools throughout Yorkshire, Lincolnshire and the Humber. Thanks to Ferens Educational Trust for funding.
