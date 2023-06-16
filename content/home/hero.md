@@ -35,6 +35,6 @@ Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over pr
 <p>
 <div class='my_text'>
 <p><b>May 2023:</b> Delighted to announce we have been awarded a <a href='post/we-got-a-bbsrc-grant/'>BBSRC grant</a> to study resilience of bees in changing climates! 
-<p><b>May 2023:</b> The field sites are alive with emerging bees - read <a href='post/update-from-jamie/'>Jamie's update</a> to find out more.
+<p><b>May 2023:</b> The field sites are alive with emerging bees! Read <a href='post/update-from-jamie/'>Jamie's update</a> to find out more.
 <p><b>March 2023:</b> We welcome <a href='post/welcome-to-sophie/'>Sophie Gibson</a> to the lab, who has just started her MSc funded by the Ferens Educational Trust. 
 <li> See <a href='#posts'>Latest news</a> for details.</div>
