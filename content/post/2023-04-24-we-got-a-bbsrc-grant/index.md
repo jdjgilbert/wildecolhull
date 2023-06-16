@@ -1,5 +1,5 @@
 ---
-title: 'BBSRC grant awarded!'
+title: 'BBSRC grant awarded'
 author: 'James Gilbert'
 date: '2023-05-24'
 slug: 'we-got-a-bbsrc-grant'
@@ -12,7 +12,6 @@ lastmod: '2023-05-24T21:58:50+01:00'
 featured: no
 image:
   caption: ''
-  focal_point: ''
   preview_only: no
 projects: [mason bees]
 ---
