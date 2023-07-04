@@ -11,7 +11,7 @@ authors: ["admin"]
 lastmod: '2023-04-15T19:25:42+01:00'
 featured: no
 image: 
-  caption: ''
+  caption: 'Mason bee larvae busy eating the pollen given to them by their parents (photo: Jamie Smith)'
   preview_only: no
 projects: [mason bees]
 ---
