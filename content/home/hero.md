@@ -38,6 +38,5 @@ Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over pr
 
 <p><b>July 2023:</b> It's #solitarybeeweek! Read Jamie's update on the mason bees from the lab and field <a href='post/field-update-from-jamie/'>here</a>.
 <p><b>May 2023:</b> Delighted to announce we have been awarded a <a href='post/we-got-a-bbsrc-grant/'>BBSRC grant</a> to study resilience of bees in changing climates! 
-<p><b>May 2023:</b> The field sites are alive with emerging bees! Read <a href='post/update-from-jamie/'>Jamie's update</a> to find out more.
 
 <li> See <a href='#posts'>Latest news</a> for details.</div>
