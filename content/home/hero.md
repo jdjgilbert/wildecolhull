@@ -34,13 +34,10 @@ Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over pr
 </div>
 <p>
 <div class='my_text'>
-<p><b>August 2023:</b> <b>We are hiring!</b> Our lab is looking for a <b>part-time research technician</b> to work on our recently funded BBSRC project on solitary bee physiology and ecology. Closing date 11 Sep. <a href='https://jobs.hull.ac.uk/Vacancy.aspx?ref=UOH-TA-0077'>View details and apply here</a>. Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions.
+<p><b>August 2023:</b> <b><font color='red'>We are hiring!</font></b> Our lab is looking for a <b>part-time research technician</b> to work on our recently funded BBSRC project on solitary bee physiology and ecology. Closing date 11 Sep (for Jan 2024 start). <a href='https://jobs.hull.ac.uk/Vacancy.aspx?ref=UOH-TA-0077'>View details and apply here</a>. Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions.
 
-<p><b>August 2023:</b> <b>Come and do a PhD in our lab!</b> 
-We have a funded PhD opportunity supervised by me, plus Prof. Jeremy Niven and Dr Beth Nicholls at the University of Sussex. The PhD involves computational modelling of insect energy budgets to determine resilience to habitat/climate change. <a href='https://www.hull.ac.uk/study/postgraduate/research/phd/funded/computational-modelling-of-insect-energy-budgets-to-determine-the-impact-of-a-changing-environmental-conditions'>View more details and apply here</a>
+<p><b>August 2023:</b> <b><font color='red'>Come and do a PhD in our lab!</font></b> 
+We have a funded PhD opportunity supervised by me, plus Prof. Jeremy Niven and Dr Beth Nicholls at the University of Sussex. The PhD involves computational modelling of insect energy budgets to determine resilience to habitat/climate change. Closing date 2 Oct (for Jan 2024 start). <a href='https://www.hull.ac.uk/study/postgraduate/research/phd/funded/computational-modelling-of-insect-energy-budgets-to-determine-the-impact-of-a-changing-environmental-conditions'>View more details and apply here</a>
 Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions.
-
-<p><b>July 2023:</b> It's #solitarybeeweek! Read Jamie's update on the mason bees from the lab and field <a href='post/field-update-from-jamie/'>here</a>.
-<p><b>May 2023:</b> Delighted to announce we have been awarded a <a href='post/we-got-a-bbsrc-grant/'>BBSRC grant</a> to study resilience of bees in changing climates! 
 
 <li> See <a href='#posts'>Latest news</a> for details.</div>
