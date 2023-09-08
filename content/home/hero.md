@@ -29,15 +29,12 @@ advanced:
 <div>Insect ecology, evolution, behaviour, nutrition.
 </div>
 <p>
-<div class='my_text'>Recent publication:
-Austin A, Gilbert JDJ. 2021. Solitary bee larvae prioritize carbohydrate over protein in parentally provided pollen. Functional Ecology 35(5):1069-80. <a href="https://doi.org/10.1111/1365-2435.13746">https://doi.org/10.1111/1365-2435.13746</a>. See <a href='/featured'>Publications</a> for details.
-</div>
 <p>
 <div class='my_text'>
 <p><b>August 2023:</b> <b><font color='red'>We are hiring!</font></b> Our lab is looking for a <b>part-time research technician</b> to work on our recently funded BBSRC project on solitary bee physiology and ecology. Closing date 11 Sep (for Jan 2024 start). <a href='https://jobs.hull.ac.uk/Vacancy.aspx?ref=UOH-TA-0077'>View details and apply here</a>. Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions.
 
 <p><b>August 2023:</b> <b><font color='red'>Come and do a PhD in our lab!</font></b> 
-We have a funded PhD opportunity supervised by me, plus Prof. Jeremy Niven and Dr Beth Nicholls at the University of Sussex. The PhD involves computational modelling of insect energy budgets to determine resilience to habitat/climate change. Closing date 2 Oct (for Jan 2024 start). <a href='https://www.hull.ac.uk/study/postgraduate/research/phd/funded/computational-modelling-of-insect-energy-budgets-to-determine-the-impact-of-a-changing-environmental-conditions'>View more details and apply here.</a> 
+Funded PhD opportunity with me, plus <a href='https://profiles.sussex.ac.uk/p280331-jeremy-niven'>Prof. Jeremy Niven</a> and <a href='https://profiles.sussex.ac.uk/p339798-beth-nicholls'>Dr Beth Nicholls</a> at the University of Sussex: Computational modelling of insect energy budgets and resilience to habitat/climate change. Closes 2 Oct (for Jan 2024 start). <a href='https://www.hull.ac.uk/study/postgraduate/research/phd/funded/computational-modelling-of-insect-energy-budgets-to-determine-the-impact-of-a-changing-environmental-conditions'>View more details and apply here.</a> 
 Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions.
 
 <li> See <a href='#posts'>Latest news</a> for details.</div>
