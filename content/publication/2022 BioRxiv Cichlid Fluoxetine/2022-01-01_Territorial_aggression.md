@@ -1,7 +1,7 @@
 +++
 title = "Territorial aggression in male bower-building cichlids Nyassachromis cf. microcephalus is disrupted by exposure to environmental concentrations of fluoxetine"
 date = "2022-01-01"
-authors = ["Paige Lee", "Alan Smith", "Hannah King", James Gilbert", "Lesley Morrell", "Domino Joyce"]
+authors = ["Paige Lee", "Alan Smith", "Hannah King", "James Gilbert", "Lesley Morrell", "Domino Joyce"]
 publication_types = ["3"]
 publication = "bioRxiv, _pp. 2022.10.25.513719_"
 publication_short = "bioRxiv, _pp. 2022.10.25.513719_"
