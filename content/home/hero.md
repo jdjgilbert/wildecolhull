@@ -31,7 +31,7 @@ advanced:
 <p>
 <p>
 <div class='my_text'>
-<p><b>September 2023:</b> <b><font color='red'>We are looking for a <b>Postdoctoral Research Associate</b></font> to work on our BBSRC-funded project on solitary bee physiology and ecology. <b>Closing date 08 Oct</b> (for Jan 2024 start). <a href='https://jobs.hull.ac.uk/Vacancy.aspx?ref=UOH-TA-0079'>View details and apply here</a>. Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions. Note that <b>applications for the Research Technician position have now closed.</b>.
+<p><b>September 2023:</b> <font color='red'><b>We are looking for a Postdoctoral Research Associate</b></font> to work on our BBSRC-funded project on solitary bee physiology and ecology. <b>Closing date 08 Oct</b> (for Jan 2024 start). <a href='https://jobs.hull.ac.uk/Vacancy.aspx?ref=UOH-TA-0079'>View details and apply here</a>. Contact <a href='https://wildecolhull.netlify.app/authors/james-gilbert/'>me</a> with any questions. <i>Note that applications for the Research Technician position have now closed.</i>
 
 <p><b>September 2023:</b> <b><font color='red'>Come and do a PhD in our lab!</font></b> 
 Funded PhD opportunity with me, plus <a href='https://profiles.sussex.ac.uk/p280331-jeremy-niven'>Prof. Jeremy Niven</a> and <a href='https://profiles.sussex.ac.uk/p339798-beth-nicholls'>Dr Beth Nicholls</a> at the University of Sussex: Computational modelling of insect energy budgets and resilience to habitat/climate change. Closes 2 Oct (for Jan 2024 start). <a href='https://www.hull.ac.uk/study/postgraduate/research/phd/funded/computational-modelling-of-insect-energy-budgets-to-determine-the-impact-of-a-changing-environmental-conditions'>View more details and apply here.</a> 
