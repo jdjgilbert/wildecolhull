@@ -13,6 +13,8 @@ authors:
 - Sam-Butler
 - Fiona-Tainsh
 - Charlotte-Howard
+- Elisa-Gomes
+- Eliza-Miller
 
 summary: Investigating how bees and their young work together to ensure young get a balanced diet in changing environments - and how this affects their pollination services 
 tags:

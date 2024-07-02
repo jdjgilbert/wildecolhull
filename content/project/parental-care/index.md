@@ -11,7 +11,7 @@ title: Evolution of parental care
 authors: 
 - James-Gilbert
 - Yannis-Dimopoulos
-- Caitlin-Flynn
+- Lais-Grossel
 
 weight: 20
 ---
