@@ -48,5 +48,8 @@ user_groups:
 
 
 ---
-Lais is a behavioural ecologist interested in the interface between sexual selection and parental care, and in using harvestmen as a model clade for experimental studies and molecular tools to answer research questions. She is visiting our lab for a 1 year internship while currently in the third year of a PhD with <a href='https://g-spotlab.weebly.com/people.html'>Glauco Machado</a> at the University of Sao Paulo.  She previously completed a MBA in Data Science and Analytics at the same institution.
+
+I am a behavioural ecologist interested in social behavior, sexual selection and parental care. In my MSc dissertation, using hormone dosages and social networks, I investigated how hierarchies of dominance could be restructured in the absence of alpha males in a Neotropical species of peccary (Mammalia). Now, in my PhD thesis, I am using different techniques, such as field experiments, molecular tools, and phylogenetic comparative methods to answer several questions about how parental care evolved through sexual selection in harvestmen (Opiliones). I will be part of James Gilbert's Lab as a one-year intern to study the evolution of parental care and the changes between different states of caring, culminating in the ancestral reconstruction of the first caregiver in harvestmen.
+
+I'm doing my PhD in Zoology in the Universidade de São Paulo, São Paulo, Brazil; I did my MSc in Zoology in the Universidade Federal do Paraná, Paraná, Brazil; and I got my Bachelor's degree in Biological Sciences in the Universidade do Contestado, Santa Catarina, Brazil.
  
