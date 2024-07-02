@@ -1,6 +1,6 @@
 ---
 # Display name
-Title: Eliza miller
+Title: Eliza Miller
 weight: 60
 
 # Primary user of site?
