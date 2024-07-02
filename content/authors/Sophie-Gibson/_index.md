@@ -44,7 +44,7 @@ social:
   link: https://twitter.com/sophiegibbee
 
 user_groups:
-- Researchers
+- Alumni
 
 
 
