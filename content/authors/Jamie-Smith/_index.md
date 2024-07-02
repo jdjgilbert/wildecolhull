@@ -1,7 +1,7 @@
 ---
 # Display name
 Title: Jamie Smith
-weight: 20
+weight: 25
 
 # Primary user of site?
 superuser: false
