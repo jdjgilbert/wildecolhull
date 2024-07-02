@@ -1,7 +1,7 @@
 ---
 # Display name
 Title: Eliza Miller
-weight: 60
+weight: 27
 
 # Primary user of site?
 superuser: false
