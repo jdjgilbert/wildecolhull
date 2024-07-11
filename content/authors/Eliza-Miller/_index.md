@@ -49,5 +49,5 @@ user_groups:
 
 
 ---
-Eliza works as a technician on our BBSRC-funded project looking at the impact of developmental environments on bee life histories. She has a diverse range of experience in the field. She holds a BSc in Zoology with Mandarin and a distinction MSc in Molecular Medicine, from Sussex and York Universities. Her dissertations covered captive lion behaviour and an evolutionary analysis of the ZAK gene. She has gained hands-on experience in labs addressing COVID-19, HIV, and a range of plant diseases. She now oversees an oil recycling lab which focuses on the environment and sustainability, alongside working with Osmia bicornis.
+Eliza works as a technician on our BBSRC-funded project looking at the impact of developmental environments on bee life histories. She has a diverse range of experience in the field. She holds a BSc in Zoology with Mandarin and a distinction MSc in Molecular Medicine, from Sussex and York Universities. Her dissertations covered captive lion behaviour and an evolutionary analysis of the ZAK gene. She has gained hands-on experience in labs addressing COVID-19, HIV, and a range of plant diseases. She now oversees an oil recycling lab which focuses on the environment and sustainability, alongside working with _Osmia bicornis_.
  
