@@ -31,6 +31,8 @@ advanced:
 <p>
 <p>
 <div class='my_text'>
+<p><b>September 2024:</b>Yet <b>another new team member!</b>  Welcome to PhD student <b>Matthew Chambers</b> who starts a PhD in our lab following a MSc at Leeds - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
+
 <p><b>June 2024:</b> The bees are emerging in our flight cage experiment! We will have a team update here soon.
 
 <p><b>May 2024:</b> <b>Another new team member</b> - welcome to PhD intern <b>Lais Grossel</b> who will shortly start a year's internship in our lab from her PhD at Sao Paulo - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
