@@ -31,7 +31,7 @@ advanced:
 <p>
 <p>
 <div class='my_text'>
-<p><b>September 2024:</b>Yet <b>another new team member!</b>  Welcome to PhD student <b>Matthew Chambers</b> who starts a PhD in our lab following a MSc at Leeds - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
+<p><b>September 2024:</b> Yet <b>another new team member!</b>  Welcome to PhD student <b>Matthew Chambers</b> who starts a PhD in our lab following a MSc at Leeds - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
 
 <p><b>June 2024:</b> The bees are emerging in our flight cage experiment! We will have a team update here soon.
 
