@@ -10,7 +10,7 @@ superuser: false
 Role: MSc Researcher
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sam's MSc focuses on how red mason bees structure the provisions they provide to offspring, within and among cells and nests.
+bio: Sam's MSc focused on how red mason bees structure the provisions they provide to offspring, within and among cells and nests.
 
 # Interests to show in About widget
 interests:
@@ -43,10 +43,10 @@ social:
   link: https://twitter.com/sammy_butler_
 
 user_groups:
-- Researchers
+- Alumni
 
 
 
 ---
 
-Sam's MSc focuses firstly on how red mason bees structure the provisions they provide to offspring, by slicing up pollen balls and sampling the pollen across transects.  Secondly, she is working with local schools and orchards to investigate how pollen composition changes within and among cells and nests in different environments.
+Sam's MSc focused primarily on how red mason bees structure the provisions they provide to offspring, by slicing up pollen balls and sampling the pollen across transects.  
