@@ -31,13 +31,13 @@ advanced:
 <p>
 <p>
 <div class='my_text'>
+<p><b>October 2024:</b> New paper out!  Gilbert JDJ. Investigating the role of non-helpers in group-living thrips. <a href="https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14204">Journal of Animal Ecology 93:1960–1971</a>.  I wrote about this in an article for The Conversation, <a href="https://theconversation.com/are-these-tiny-insects-the-worlds-most-bone-idle-bugs-242454">here</a>.
+
 <p><b>September 2024:</b> Our BBSRC project has a website! go to <a href='http://pollinators.hull.ac.uk'>pollinators.hull.ac.uk</a> for more.
 
 <p><b>September 2024:</b> Yet <b>another new team member!</b>  Welcome to PhD student <b>Matthew Chambers</b> who starts a PhD in our lab following a MSc at Leeds - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
 
 <p><b>August 2024:</b> Congratulations to Sam for being awarded her MSc! We wish her all the best in her new training as a vet.
-
-<p><b>January 2024:</b> <b>Paper accepted!</b> Gilbert JDJ. Investigating the role of non-helpers in group-living thrips. In press at Journal of Animal Ecology. See the preprint for details, <a href='https://www.biorxiv.org/content/10.1101/2023.09.08.556834v1'>here</a>.
 
 
 <li>More <a href='#posts'>Latest news</a> below</div>
