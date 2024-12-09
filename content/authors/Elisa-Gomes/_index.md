@@ -38,9 +38,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:e.gomes@hull.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jamiesmithbio
+
 
 user_groups:
 - Researchers
