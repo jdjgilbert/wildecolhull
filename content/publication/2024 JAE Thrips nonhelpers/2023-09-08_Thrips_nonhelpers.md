@@ -23,6 +23,6 @@ url_source = ""
 math = true
 highlight = true
 [header]
-image = "graphical_abstract.jpg"
+image = "/graphical_abstract.jpg"
 caption = "_Dunatothrips aneurae_ females within their domiciles."
 +++
