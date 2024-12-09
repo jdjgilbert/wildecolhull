@@ -42,7 +42,7 @@ role: Group leader
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:james.gilbert@hull.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/james_gilbert

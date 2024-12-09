@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'L.GROSSEL-2023@hull.ac.uk'
+  link: 'mailto:L.GROSSEL-2023@hull.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: 'https://x.com/laisgrossel'

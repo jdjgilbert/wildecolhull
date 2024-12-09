@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:M.CHAMBERS-2023@hull.ac.uk'
 
 user_groups:
 - Researchers
