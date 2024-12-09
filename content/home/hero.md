@@ -39,7 +39,12 @@ advanced:
 
 <p><b>September 2024:</b> Yet <b>another new team member!</b>  Welcome to PhD student <b>Matthew Chambers</b> who starts a PhD in our lab following a MSc at Leeds - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
 
-<p><b>August 2024:</b> Congratulations to Sam for being awarded her MSc! We wish her all the best in her new training as a vet.
-
 
 <li>More <a href='#posts'>Latest news</a> below</div>
+
+
+<!-- archived news updates below here:
+<p><b>August 2024:</b> Congratulations to Sam for being awarded her MSc! We wish her all the best in her new training as a vet.
+
+-->
+
