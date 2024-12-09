@@ -46,6 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/james_gilbert
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/jdjgilbert.bsky.social 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FfSty4EAAAAJ
