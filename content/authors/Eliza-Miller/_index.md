@@ -39,10 +39,7 @@ education:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:E.Miller2@hull.ac.uk'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/sammy_butler_
-
+  
 user_groups:
 - Researchers
 

@@ -38,9 +38,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:L.GROSSEL-2023@hull.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: 'https://x.com/laisgrossel'
+#- icon: twitter
+#  icon_pack: fab
+#  link: 'https://x.com/laisgrossel'
 
 user_groups:
 - Researchers
