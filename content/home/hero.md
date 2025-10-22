@@ -32,6 +32,10 @@ advanced:
 <p>
 <div class='my_text'>
 
+
+
+<p><b>October 2025:</b>Congrats to Matthew and Jamie for presenting their work at Ento25, the Royal Entomological Society's annual conference in Glasgow! Read more about their experience <a href='https://wildecolhull.netlify.app/ento25'>here</a>
+
 <p><b>October 2025:</b> Check out the latest  <a href='https://pollinators.hull.ac.uk/project-updates/'>updates from the bee project</a> on our grant website.
 
 <p><b>September 2025:</b> New coauthored paper out! <a href='https://doi.org/10.1093/beheco/araf116'>Lindstedt et al. 2015. Maternal care shapes an aposematic display and provides lifelong protection against predators. Behavioural Ecology 36(5).</a>
