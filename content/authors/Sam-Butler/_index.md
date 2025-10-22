@@ -7,7 +7,7 @@ weight: 40
 superuser: false
 
 # Role in the group
-Role: MSc Researcher
+Role: MSc Researcher (Alumna)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Sam's MSc focused on how red mason bees structure the provisions they provide to offspring, within and among cells and nests.

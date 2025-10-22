@@ -6,7 +6,7 @@ Title: Caitlin Flynn
 superuser: false
 
 # Role in the group
-Role: MSc Researcher
+Role: MSc Researcher (Alumna)
 
 # Short bio (displayed in user profile at end of posts)
 bio: Caitlin's MSc focused on evolution of parental care and life histories in insects.
