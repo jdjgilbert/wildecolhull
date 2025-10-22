@@ -31,13 +31,15 @@ advanced:
 <p>
 <p>
 <div class='my_text'>
-<p><b>October 2024:</b> Check out the latest  <a href='https://pollinators.hull.ac.uk/end-of-fieldwork/'>update from the field </a> from Elisa on our grant website.
 
-<p><b>October 2024:</b> New paper out!  Gilbert JDJ. Investigating the role of non-helpers in group-living thrips. <a href="https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2656.14204">Journal of Animal Ecology 93:1960–1971</a>.  I wrote about this in an article for The Conversation, <a href="https://theconversation.com/are-these-tiny-insects-the-worlds-most-bone-idle-bugs-242454">here</a>.
+<p><b>October 2025:</b> Check out the latest  <a href='https://pollinators.hull.ac.uk/project-updates/'>updates from the bee project</a> on our grant website.
 
-<p><b>September 2024:</b> Our BBSRC project has a website! go to <a href='http://pollinators.hull.ac.uk'>pollinators.hull.ac.uk</a> for more, and read all our <a href="https://pollinators.hull.ac.uk/project-updates/">updates from the field</a> to date.
+<p><b>September 2025:</b> New coauthored paper out! <a href='https://doi.org/10.1093/beheco/araf116'>Lindstedt et al. 2015. Maternal care shapes an aposematic display and provides lifelong protection against predators. Behavioural Ecology 36(5).</a>
 
-<p><b>September 2024:</b> Yet <b>another new team member!</b>  Welcome to PhD student <b>Matthew Chambers</b> who starts a PhD in our lab following a MSc at Leeds - see <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
+<p><b>September 2025:</b> Welcome to MSc student <b>Will Hurst</b>, who starts a MSc in our lab working on stalk-eyed flies - a new organism for our group! See <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
+
+
+
 
 
 <li>More <a href='#posts'>Latest news</a> below</div>
