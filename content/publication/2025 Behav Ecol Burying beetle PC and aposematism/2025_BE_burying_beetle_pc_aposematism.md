@@ -1,7 +1,7 @@
 +++
 title = "Maternal care shapes an aposematic display and provides lifelong protection against predators"
 date = "2025-09-29"
-authors = ["James Gilbert"]
+authors = ["Carita Lindstedt, Giuseppe Boncoraglio, Sheena Cotter, James Gilbert, Rebecca Kilner"]
 publication_types = ["2"]
 publication = "Behavioral Ecology 36(5), [https://doi.org/10.1093/beheco/araf116](https://doi.org/10.1093/beheco/araf116)"
 publication_short = "Behav. Ecol. 36(5):https://doi.org/10.1093/beheco/araf116"
