@@ -1,6 +1,6 @@
 +++
 title = "Maternal care shapes an aposematic display and provides lifelong protection against predators"
-date = "2024-12-04"
+date = "2025-09-29"
 authors = ["James Gilbert"]
 publication_types = ["2"]
 publication = "Behavioral Ecology 36(5), [https://doi.org/10.1093/beheco/araf116](https://doi.org/10.1093/beheco/araf116)"
@@ -9,7 +9,7 @@ abstract = "Parental care can improve early offspring survival against predators
 abstract_short = ""
 image_preview = "image_preview.jpg"
 selected = false
-projects = ['acacia-thrips']
+projects = ['parental-care']
 tags = []
 url_pdf = "https://academic.oup.com/beheco/advance-article-pdf/doi/10.1093/beheco/araf116/64423946/araf116.pdf"
 url_preprint = ""
