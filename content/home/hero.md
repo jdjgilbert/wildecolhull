@@ -34,7 +34,7 @@ advanced:
 
 
 
-<p><b>October 2025:</b>Congrats to Matthew and Jamie for presenting their work at Ento25, the Royal Entomological Society's annual conference in Glasgow! Read more about their experience <a href='https://wildecolhull.netlify.app/ento25'>here</a>
+<p><b>October 2025:</b>Congrats to Matthew and Jamie for presenting their work at Ento25, the Royal Entomological Society's annual conference in Glasgow! Read more about their experience <a href='https://wildecolhull.netlify.app/post/ento25/'>here</a>
 
 <p><b>October 2025:</b> Check out the latest  <a href='https://pollinators.hull.ac.uk/project-updates/'>updates from the bee project</a> on our grant website.
 
