@@ -8,7 +8,7 @@ superuser: true
 
 
 email: "james.gilbert@hull.ac.uk"
-bio: I am interested in the evolution of parental care and social behaviour – especially how these interactions shape, and are shaped by, nutritional environments and pressures of anthropogenic change.
+bio: I am interested in the evolution of invertebrate parental care and social behaviour – especially how these interactions shape, and are shaped by, nutritional environments and pressures of anthropogenic change.
 
 # Education to show in About widget
 education:
@@ -72,5 +72,5 @@ user_groups:
 - Researchers
 ---
 
-Lecturer in the Department of Biological and Marine Sciences at the University of Hull, UK. I am interested in the evolution of parental care and social behaviour, especially how these crucial animal interactions shape, and are shaped by, animals’ nutritional environments - and how they are influenced by the pressures of anthropogenic change.  I have conducted phylogenetic-comparative work across many taxa and also experimental lab- and fieldwork on on various taxa (assassin bugs, thrips, katydids and, most recently, wild bees).
+Senior lecturer in the School of Environmenal and Life Sciences at the University of Hull, UK. I am interested in the evolution of parental care and social behaviour, especially how these crucial animal interactions shape, and are shaped by, animals’ nutritional environments - and how they are influenced by the pressures of anthropogenic change.  I mainly work on insects and other invertebrates, and have conducted phylogenetic-comparative work across many taxa and also experimental lab- and fieldwork on on various taxa (assassin bugs, thrips, katydids and, most recently, wild bees).
 
