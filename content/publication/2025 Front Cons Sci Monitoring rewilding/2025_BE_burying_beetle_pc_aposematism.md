@@ -15,7 +15,7 @@ Discussion: Our findings indicate that metabarcoding, particularly of eDNA, has 
 abstract_short = ""
 image_preview = "image_preview.jpg"
 selected = false
-projects = ['']
+projects = ['parental care']
 tags = []
 url_pdf = "https://public-pages-files-2025.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1473957/pdf"
 url_preprint = ""
