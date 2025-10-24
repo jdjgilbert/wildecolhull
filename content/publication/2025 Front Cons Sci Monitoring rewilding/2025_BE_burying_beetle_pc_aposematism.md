@@ -13,9 +13,9 @@ Results: Terrestrial ecosystems represented a small proportion of total papers, 
 
 Discussion: Our findings indicate that metabarcoding, particularly of eDNA, has the potential to play a key role in the monitoring of terrestrial rewilding, but that further ground- truthing is needed to establish the most appropriate sampling and experimental pipelines for the target taxa and terrestrial system of interest."
 abstract_short = ""
-image_preview = "image_preview.jpg"
+image_preview = ""
 selected = false
-projects = ['parental care']
+projects = ['parental-care']
 tags = []
 url_pdf = "https://public-pages-files-2025.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2024.1473957/pdf"
 url_preprint = ""
