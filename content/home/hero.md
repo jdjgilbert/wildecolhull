@@ -36,7 +36,7 @@ advanced:
 
 <p><b>October 2025:</b> Congrats to Matthew and Jamie for presenting their work at Ento25, the Royal Entomological Society's annual conference in Glasgow! Read more about their experience <a href='https://wildecolhull.netlify.app/post/ento25/'>here</a>
 
-<p><b>October 2025:</b> New paper in press at _Proceedings B_! Gilbert et al. 2025. Internet images reveal bumblebee-mimicking hoverflies follow models in preferring blue flowers, but retain the typical hoverfly attraction to yellow. Find the preprint <a href='https://www.biorxiv.org/content/10.1101/2025.02.03.634701v2'>here</a>, and more details in my Bluesky post, <a href='https://bsky.app/profile/jdjgilbert.bsky.social/post/3li5erybsus2v'>here</a>.
+<p><b>October 2025:</b> New paper in press at <i>Proceedings B</i>! Gilbert et al. 2025. Internet images reveal bumblebee-mimicking hoverflies follow models in preferring blue flowers, but retain the typical hoverfly attraction to yellow. Find the preprint <a href='https://www.biorxiv.org/content/10.1101/2025.02.03.634701v2'>here</a>, and more details in my Bluesky post, <a href='https://bsky.app/profile/jdjgilbert.bsky.social/post/3li5erybsus2v'>here</a>.
 
 <p><b>October 2025:</b> Latest  <a href='https://pollinators.hull.ac.uk/project-updates/'>updates from the bee project</a> on our grant website.
 
