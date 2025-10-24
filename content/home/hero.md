@@ -36,14 +36,13 @@ advanced:
 
 <p><b>October 2025:</b>Congrats to Matthew and Jamie for presenting their work at Ento25, the Royal Entomological Society's annual conference in Glasgow! Read more about their experience <a href='https://wildecolhull.netlify.app/post/ento25/'>here</a>
 
-<p><b>October 2025:</b> Check out the latest  <a href='https://pollinators.hull.ac.uk/project-updates/'>updates from the bee project</a> on our grant website.
+<p><b>October 2025:</b> New paper in press at _Proceedings B_! Gilbert et al. 2025. Internet images reveal bumblebee-mimicking hoverflies follow models in preferring blue flowers, but retain the typical hoverfly attraction to yellow</a>. Find the preprint <a href='https://www.biorxiv.org/content/10.1101/2025.02.03.634701v2'>here</a>, and more details in my Bluesky post, <a href='https://bsky.app/profile/jdjgilbert.bsky.social/post/3li5erybsus2v'>here</a>.
 
-<p><b>September 2025:</b> New coauthored paper out! <a href='https://doi.org/10.1093/beheco/araf116'>Lindstedt et al. 2015. Maternal care shapes an aposematic display and provides lifelong protection against predators. Behavioural Ecology 36(5).</a>
+<p><b>October 2025:</b> Latest  <a href='https://pollinators.hull.ac.uk/project-updates/'>updates from the bee project</a> on our grant website.
+
+<p><b>September 2025:</b> New coauthored paper out! <a href='https://doi.org/10.1093/beheco/araf116'>Lindstedt et al. 2025. Maternal care shapes an aposematic display and provides lifelong protection against predators. Behavioural Ecology 36(5).</a>
 
 <p><b>September 2025:</b> Welcome to MSc student <b>Will Hurst</b>, who starts a MSc in our lab working on stalk-eyed flies - a new organism for our group! See <a href='https://wildecolhull.netlify.app/#people'> people</a> for details.
-
-
-
 
 
 <li>More <a href='#posts'>Latest news</a> below</div>
