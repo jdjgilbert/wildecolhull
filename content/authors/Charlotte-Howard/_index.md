@@ -9,7 +9,7 @@ superuser: false
 Role: MSc Researcher (Alumna)
 
 # Short bio (displayed in user profile at end of posts)
-bio: Charlotte's MSc focused on nutritional ecology of red mason bees.
+bio: Charlotte's MSc focused on nutritional ecology of red mason bees throughout the course of their development.
 
 # Interests to show in About widget
 interests:
@@ -50,4 +50,4 @@ user_groups:
 
 ---
 
-Charlotte's MSc focused on the multidimensional effects of nutrition across the time course of development upon hatching and cocoon weight in solitary bee larvae. Charlotte is now a NERC-funded PhD researcher at [Reading University](https://research.reading.ac.uk/foodbiosystems/meet-our-researchers/meet-our-phd-students-rdg/).
+Charlotte's MSc focused on the multidimensional effects of nutrition across the time course of development upon hatching and cocoon weight in solitary bee larvae. Charlotte did her PhD, and now postdoc, at [Reading University](https://www.linkedin.com/in/dr-charlotte-howard-2bab29194/?originalSubdomain=uk).
